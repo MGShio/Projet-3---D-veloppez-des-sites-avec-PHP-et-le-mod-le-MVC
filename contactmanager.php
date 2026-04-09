@@ -1,7 +1,7 @@
 <?php
 // Inclure les classes nécessaires
 require_once 'dbconnect.php';
-require_once 'Contact.php';
+require_once 'contact.php';
 
 class ContactManager {
     private $pdo;

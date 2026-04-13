@@ -1,6 +1,6 @@
 <?php
 // Inclure les classes nécessaires
-require_once 'contactmanager.php';
+require_once 'ContactManager.php';
 
 class Command {
     public static function list(): void {

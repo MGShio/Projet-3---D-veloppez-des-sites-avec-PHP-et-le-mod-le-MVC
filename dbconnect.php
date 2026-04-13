@@ -34,4 +34,3 @@ class DBConnect
         return $this->pdo;
     }
 }
-?>

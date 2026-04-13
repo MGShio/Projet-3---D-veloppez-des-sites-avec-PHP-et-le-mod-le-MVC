@@ -1,8 +1,8 @@
 <?php
 // Inclure la classe DBConnect
-require_once 'dbconnect.php';
+require_once 'DBConnect.php';
 // Inclure la classe Command
-require_once 'command.php';
+require_once 'Command.php';
 
 // Récupérer l'instance de DBConnect et PDO
 $dbConnect = DBConnect::getInstance();
